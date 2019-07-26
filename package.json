@@ -1,0 +1,19 @@
+{
+  "name": "wordguessconstructorcli",
+  "version": "1.0.0",
+  "description": "Word guess game with command line interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rturner1298/WordGuessConstructorCli.git"
+  },
+  "author": "Robert Turner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rturner1298/WordGuessConstructorCli/issues"
+  },
+  "homepage": "https://github.com/rturner1298/WordGuessConstructorCli#readme"
+}
